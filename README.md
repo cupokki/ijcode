@@ -3,13 +3,13 @@ wsl code instruction for InteliJ
 
 This script need execute permission.
 
-#How to run 
+#How to install 
 
 ```chmod +x ./install.sh```
 
 ```./install.sh```
 
-After install, delete the clone.
+You can delete the clone after install.
 
 #Usage
 usage 1 ```ijcode``` Start the InteliJ Process.
