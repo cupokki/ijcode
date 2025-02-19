@@ -1,9 +1,9 @@
-# ijcode
+##ijcode
 WSL code instruction for IntelliJ
 
 This script needs execute permission.
 
-#How to install 
+##How to install 
 
 ```chmod +x ./install.sh```
 
@@ -11,7 +11,7 @@ This script needs execute permission.
 
 You can delete the clone after installation.
 
-#Usage
+##Usage
 1. ```ijcode``` Start the InteliJ Process.
 2. ```ijcode .``` Start with the current path.
 3. ```ijcode NEW_PATH``` Create a new directory and start with the new path.
