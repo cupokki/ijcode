@@ -16,3 +16,4 @@ You can delete the clone after installation.
 2. ```ijcode .``` Start with the current path.
 3. ```ijcode NEW_PATH``` Create a new directory and start with the new path.
 4. ```ijcode PATH``` Start with the path.
+test
